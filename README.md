@@ -1,2 +1,2 @@
 # bookstore-web
-- springboot, jsp, mybatis, oracle를 활용한 스프링 웹 애플리케이션
+- spring boot, mybatis, oracle 기반 웹 애플리케이션
